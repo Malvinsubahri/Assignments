@@ -1,4 +1,4 @@
-#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
+﻿#,Name,Type 1,Type 2,Total,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Generation,Legendary
 1,Bulbasaur,Grass,Poison,318,45,49,49,65,65,45,1,False
 2,Ivysaur,Grass,Poison,405,60,62,63,80,80,60,1,False
 3,Venusaur,Grass,Poison,525,80,82,83,100,100,80,1,False
@@ -799,3 +799,4 @@
 720,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,6,True
 720,HoopaHoopa Unbound,Psychic,Dark,680,80,160,60,170,130,80,6,True
 721,Volcanion,Fire,Water,600,80,110,120,130,90,70,6,True
+ 
