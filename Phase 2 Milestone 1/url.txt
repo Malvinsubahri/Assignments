@@ -1,0 +1,5 @@
+URL Dataset : https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+URL Model Deployment Backend: https://malvin-subahri-p2m1-b.herokuapp.com/
+
+URL Model Deployment Frontend: https://malvin-subahri-p2m1-f.herokuapp.com/
