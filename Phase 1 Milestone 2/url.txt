@@ -1,0 +1,2 @@
+URL Backend	: https://malvin-subahri-ftds-012-p1m2-b.herokuapp.com/
+URL Frontend	: https://malvin-subahri-ftds-012-p1m2-f.herokuapp.com/
