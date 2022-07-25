@@ -1,0 +1,7 @@
+URL Dataset : https://www.kaggle.com/datasets/vinayakshanawad/meat-freshness-image-dataset
+
+	      https://drive.google.com/drive/folders/1CiJ7iSXjMOrcH5i0-JqRDDWUr7xg_KfV?usp=sharing
+
+URL Model Deployment Backend: https://backendp2m2.herokuapp.com/
+
+URL Model Deployment Frontend: https://frontendp2m2.herokuapp.com/
